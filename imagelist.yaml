@@ -1,4 +1,4 @@
 images:
-  langgenius/dify-api:1.0.1: registry-vpc.cn-chengdu.aliyuncs.com/zodancer/dify-api:1.0.1
-  langgenius/dify-web:1.0.1: registry-vpc.cn-chengdu.aliyuncs.com/zodancer/dify-web:1.0.1
-  langgenius/dify-plugin-daemon:0.0.4-local: registry-vpc.cn-chengdu.aliyuncs.com/zodancer/dify-plugin-daemon:0.0.4-local
+  langgenius/dify-api:1.0.1: registry.cn-chengdu.aliyuncs.com/zodancer/dify-api:1.0.1
+  langgenius/dify-web:1.0.1: registry.cn-chengdu.aliyuncs.com/zodancer/dify-web:1.0.1
+  langgenius/dify-plugin-daemon:0.0.4-local: registry.cn-chengdu.aliyuncs.com/zodancer/dify-plugin-daemon:0.0.4-local
