@@ -1,4 +1,4 @@
 images:
-  docker.io/langgenius/dify-api:1.0.1: registry-vpc.cn-chengdu.aliyuncs.com/zodancer/dify-api/dify-api:1.0.1
-  docker.io/langgenius/dify-web:1.0.1: registry-vpc.cn-chengdu.aliyuncs.com/zodancer/dify-api/dify-web:1.0.1
+  docker.io/langgenius/dify-api:1.0.1: registry-vpc.cn-chengdu.aliyuncs.com/zodancer/dify-api:1.0.1
+  docker.io/langgenius/dify-web:1.0.1: registry-vpc.cn-chengdu.aliyuncs.com/zodancer/dify-web:1.0.1
   docker.io/langgenius/dify-plugin-daemon:0.0.4-local: registry-vpc.cn-chengdu.aliyuncs.com/zodancer/dify-plugin-daemon:0.0.4-local
