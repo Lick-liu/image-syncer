@@ -1,5 +1,5 @@
 images:
-  langgenius/dify-api:1.1.2: registry.cn-chengdu.aliyuncs.com/zodancer/dify-api:1.1.2
-  langgenius/dify-web:1.1.2: registry.cn-chengdu.aliyuncs.com/zodancer/dify-web:1.1.2
-  langgenius/dify-plugin-daemon:0.0.6-local: registry.cn-chengdu.aliyuncs.com/zodancer/dify-plugin-daemon:0.0.6-local
+  grafana/grafana:10.2.2: registry.cn-chengdu.aliyuncs.com/zodancer/grafana:10.2.2
+  fluent/fluent-bit:2.2.2: registry.cn-chengdu.aliyuncs.com/zodancer/fluent-bit:2.2.2
+  grafana/loki:2.9.0: registry.cn-chengdu.aliyuncs.com/zodancer/loki:2.9.0
 
