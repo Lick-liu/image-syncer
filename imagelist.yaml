@@ -1,3 +1,3 @@
 images:
-  traefik:v3.4.3: registry.cn-chengdu.aliyuncs.com/zodancer/traefik:v3.4.3
+  timbru31/java-node:17-jre-22: registry.cn-chengdu.aliyuncs.com/zodancer/java-node:17-jre-22
 
