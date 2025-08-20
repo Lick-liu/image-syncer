@@ -1,3 +1,3 @@
 images:
-  growthbook/proxy:latest: registry.cn-chengdu.aliyuncs.com/zodancer/growthbook-proxy:latest
+  xuxueli/xxl-job-admin:3.1.1: registry.cn-chengdu.aliyuncs.com/zodancer/xxl-job-admin:3.1.1
 
