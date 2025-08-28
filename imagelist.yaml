@@ -1,3 +1,5 @@
 images:
-  xuxueli/xxl-job-admin:3.1.1: registry.cn-chengdu.aliyuncs.com/zodancer/xxl-job-admin:3.1.1
-
+  langgenius/dify-api:1.8.0: registry.cn-chengdu.aliyuncs.com/zodancer/dify-api:1.8.0
+  langgenius/dify-web:1.8.0: registry.cn-chengdu.aliyuncs.com/zodancer/dify-web:1.8.0
+  langgenius/dify-sandbox:0.2.12: registry.cn-chengdu.aliyuncs.com/zodancer/dify-sandbox:0.2.12
+  langgenius/dify-plugin-daemon:0.2.0-local: registry.cn-chengdu.aliyuncs.com/zodancer/dify-plugin-daemon:0.2.0-local
