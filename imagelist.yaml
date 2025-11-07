@@ -1,2 +1,2 @@
 images:
-  semitechnologies/weaviate:1.27.0: registry-vpc.cn-chengdu.aliyuncs.com/weaviate:1.27.0
+  semitechnologies/weaviate:1.27.0: registry.cn-chengdu.aliyuncs.com/weaviate:1.27.0
