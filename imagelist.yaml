@@ -1,2 +1,2 @@
 images:
-  semitechnologies/weaviate:1.27.0: registry.cn-chengdu.aliyuncs.com/zodancer/weaviate:1.27.0
+  calciumion/new-api:latest: registry.cn-chengdu.aliyuncs.com/zodancer/new-api:latest
