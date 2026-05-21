@@ -1,2 +1,2 @@
 images:
-  python:3.10-slim-bookworm: registry.cn-chengdu.aliyuncs.com/zodancer/python:3.10-slim-bookworm
+  python:3.10-slim-bookworm: registry.cn-hangzhou.aliyuncs.com/zodancer/python:3.10-slim-bookworm
