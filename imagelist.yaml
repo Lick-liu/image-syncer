@@ -1,2 +1,2 @@
 images:
-  calciumion/new-api:latest: registry.cn-chengdu.aliyuncs.com/zodancer/new-api:latest
+  python:3.10-slim-bookworm: registry.cn-chengdu.aliyuncs.com/zodancer/python:3.10-slim-bookworm
